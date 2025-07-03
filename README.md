@@ -13,6 +13,7 @@ Esta herramienta buscar mejorar los procesos de consulta de demandas y sus respe
 
 ## Tecnologías y herramientas
 
+- Plataforma: Azure Databricks
 - Lenguaje: Python
 - Búsqueda semántica: Sentence Transformers (all-MiniLM-L6-v2)
 - Modelo generativo: Azure AI Foundry (o4-mini)
